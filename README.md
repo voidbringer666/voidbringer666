@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voidbringer666
 - 👀 I’m actually an illustrator
-- 🌱 I want to create more interactive pieces. I am trying to learn JavaScript and C#
+- 🌱 I want to create more interactive pieces. I am trying to learn JavaScript
 - 💞️ I’m looking to collaborate on XR
 - 📫 How to reach me https://volgak.vercel.app/contact.html
 
